@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>TênisTop Revendas</title>
+</head>
+<body>
+    <header>
+        <h1>TênisTop Revendas</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Página Inicial</a></li>
+                <li><a href="#">Catálogo</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="banner">
+        <img src="banner.jpg" alt="Tênis em destaque">
+    </section>
+    <section class="highlighted">
+        <h2>Destaques</h2>
+        <!-- Aqui você pode exibir os destaques de tênis -->
+    </section>
+    <section class="about">
+        <h2>Sobre Nós</h2>
+        <p>Somos apaixonados por tênis e estamos comprometidos em oferecer as melhores opções de revenda para nossos clientes.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 TênisTop Revendas. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
